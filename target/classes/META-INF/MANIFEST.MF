@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: configcenter
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SDJX
+Implementation-Vendor-Id: com.mi
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/configcenter
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
